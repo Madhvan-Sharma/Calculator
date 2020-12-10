@@ -56,9 +56,11 @@ table{
     width:50px;
     cursor:pointer;
 }
+
 .top-key{
     background-color: #505050;
 }
+
 .operator{
     background-color:#ff9500;
     width:70px;

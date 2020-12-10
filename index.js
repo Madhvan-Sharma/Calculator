@@ -3,6 +3,7 @@ var output = document.getElementById('display-screen');
 var keys = document.getElementsByClassName('key');
 
 var expression = "";
+
 var count = 0;
 
 function clicked(ele){
